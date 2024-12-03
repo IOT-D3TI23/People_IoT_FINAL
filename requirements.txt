@@ -1,3 +1,7 @@
+# CATATAN
+# 1. Sebelum menjalankan project ini kita harus tambah folder "TrainingImage"
+# 2. Lalu untuk instalisasi lainnya bisa di lihat di PPT people_IoT
+
 appdirs==1.4.3
 attrs==19.1.0
 black==19.3b0

@@ -12,7 +12,7 @@ def title_bar():
     # title of the program
 
     print("*********************************************")
-    print("***** Sistem Kehadiran Pengenalan Wajah *****")
+    print("***** Sistem Kehadiran dengan Pengenalan Wajah *****")
     print("*********************************************")
 
 
